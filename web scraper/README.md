@@ -1,6 +1,6 @@
 ## WEB SCRAPER
 **Programa que extrai dados de um site.
-como 'pegar' rapidamente informações relevantes de sites. Como os sites são estruturados em HTML, os raspadores usam expressões regulares (regex), XPath, seletores CSS e outros localizadores para rapidamente encontrar e extrair determinado conteúdo. Por exemplo, você pode dar ao seu raspador da web uma expressão regular especificando um nome de marca ou uma palavra-chave.**
+ 'Pegando' rapidamente informações relevantes de sites. Como os sites são estruturados em HTML, os raspadores usam expressões regulares (regex), XPath, seletores CSS e outros localizadores para rapidamente encontrar e extrair determinado conteúdo. Por exemplo, você pode dar ao seu raspador da web uma expressão regular especificando um nome de marca ou uma palavra-chave.**
 
   ## ESTRUTURA BÁSICA :
  - Especifique URLs de sites e páginas que você deseja extrair.
